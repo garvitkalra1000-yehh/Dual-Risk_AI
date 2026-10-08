@@ -1,0 +1,33 @@
+dataset,operation,affected_rows,description
+academic,duplicate_removal,336,Removed exact duplicate rows
+academic,invalid_cgpa,94,Values outside 0-10 converted to missing
+academic,invalid_score,0,internal_marks: values outside 0-100 converted to missing
+academic,invalid_score,0,subject_score_avg: values outside 0-100 converted to missing
+academic,invalid_backlogs,0,Negative backlog values converted to missing
+academic,missing_value_audit,94,Missing values retained for later preprocessing
+attendance,duplicate_removal,252,Removed exact duplicate rows
+attendance,invalid_attendance,0,overall_attendance: values outside 0-100 converted to missing
+attendance,invalid_attendance,0,subject_attendance: values outside 0-100 converted to missing
+attendance,missing_value_audit,315,Missing values retained for later preprocessing
+engagement,duplicate_removal,237,Removed exact duplicate rows
+engagement,invalid_count,0,events_attended: negative values converted to missing
+engagement,invalid_count,0,club_participations: negative values converted to missing
+engagement,invalid_count,0,hackathons_attended: negative values converted to missing
+engagement,invalid_count,0,certifications_count: negative values converted to missing
+engagement,missing_value_audit,0,Missing values retained for later preprocessing
+feedback,invalid_score,0,satisfaction_score: values outside 0-100 converted to missing
+feedback,invalid_score,0,faculty_rating: values outside 0-100 converted to missing
+feedback,missing_value_audit,261,Missing values retained for later preprocessing
+lms,duplicate_removal,326,Removed exact duplicate rows
+lms,invalid_percentage,0,Assignment completion outside 0-100 converted to missing
+lms,invalid_login_count,94,Negative login counts converted to missing
+lms,missing_value_audit,94,Missing values retained for later preprocessing
+outcomes,missing_value_audit,0,Missing values retained for later preprocessing
+placement,duplicate_removal,252,Removed exact duplicate rows
+placement,invalid_score,0,aptitude_score: values outside 0-100 converted to missing
+placement,invalid_score,0,coding_score: values outside 0-100 converted to missing
+placement,invalid_score,0,mock_interview_score: values outside 0-100 converted to missing
+placement,missing_value_audit,167,Missing values retained for later preprocessing
+skills,invalid_score,0,tech_skills_score: values outside 0-100 converted to missing
+skills,invalid_score,0,soft_skills_score: values outside 0-100 converted to missing
+skills,missing_value_audit,0,Missing values retained for later preprocessing

@@ -1,0 +1,26 @@
+student_id,success_score,success_tier,success_score_confidence,academic_risk_probability,academic_risk_tier,academic_priority_score,academic_trend,placement_risk_probability,placement_risk_tier,placement_priority_score,placement_trend,priority_score,priority_domain,priority_tier,intervention_required,recommended_action
+S2497,46.37,Red,100.0,0.9547,High,100.0,Declining,0.8217,High,49.3,Stable,100.0,Academic,High,Yes,Academic mentoring - Faculty - 7d
+S2450,69.19,Amber,100.0,0.8745,High,100.0,Declining,0.2759,Medium,16.55,Stable,100.0,Academic,High,Yes,Advisor review recommended - 7d
+S2069,62.61,Amber,100.0,0.8838,High,100.0,Declining,0.0681,Low,4.09,Stable,100.0,Academic,High,Yes,Advisor review recommended - 7d
+S2285,65.79,Amber,100.0,0.926,High,100.0,Declining,0.8939,High,53.63,Stable,100.0,Academic,High,Yes,Advisor review recommended - 7d
+S2260,67.59,Amber,100.0,0.7588,High,91.06,Declining,0.9554,High,57.32,Stable,91.06,Academic,High,Yes,Academic mentoring - Faculty - 7d
+S2701,73.01,Green,100.0,0.7467,High,89.6,Declining,0.0929,Low,5.57,Stable,89.6,Academic,High,Yes,Advisor review recommended - 7d
+S2320,63.05,Amber,100.0,0.7407,High,88.88,Declining,0.0563,Low,3.38,Stable,88.88,Academic,High,Yes,Advisor review recommended - 7d
+S2271,69.05,Amber,100.0,0.7148,High,85.78,Declining,0.457,Medium,27.42,Stable,85.78,Academic,High,Yes,Advisor review recommended - 7d
+S2715,58.42,Amber,100.0,0.6764,High,81.17,Declining,0.2443,Medium,14.66,Stable,81.17,Academic,High,Yes,Advisor review recommended - 7d
+S2664,71.79,Green,100.0,0.6718,High,80.62,Declining,0.1114,Low,6.68,Stable,80.62,Academic,High,Yes,Advisor review recommended - 7d
+S2077,60.29,Amber,100.0,0.7292,High,70.0,Declining,0.3355,Medium,20.13,Stable,70.0,Academic,High,Yes,Academic mentoring - Faculty - 7d
+S2054,72.99,Green,100.0,0.966,High,69.55,Declining,0.6794,High,40.76,Stable,69.55,Academic,High,Yes,Advisor review recommended - 7d
+S2387,77.0,Green,100.0,0.9614,High,69.22,Declining,0.2753,Medium,16.52,Stable,69.22,Academic,High,Yes,Advisor review recommended - 7d
+S2629,58.91,Amber,100.0,0.9351,High,67.33,Declining,0.752,High,45.12,Stable,67.33,Academic,High,Yes,Advisor review recommended - 7d
+S2377,71.1,Green,100.0,0.9289,High,66.88,Declining,0.4533,Medium,27.2,Stable,66.88,Academic,High,Yes,Advisor review recommended - 7d
+S2601,78.93,Green,100.0,0.9259,High,66.66,Declining,0.2609,Medium,15.65,Stable,66.66,Academic,High,Yes,Advisor review recommended - 7d
+S2236,65.98,Amber,100.0,0.9209,High,66.3,Declining,0.3971,Medium,23.83,Stable,66.3,Academic,High,Yes,Advisor review recommended - 7d
+S2027,69.15,Amber,100.0,0.9205,High,66.28,Declining,0.0026,Low,0.16,Stable,66.28,Academic,High,Yes,Advisor review recommended - 7d
+S2263,70.57,Green,100.0,0.5434,Medium,65.21,Declining,0.1822,Low,10.93,Stable,65.21,Academic,High,Yes,Advisor review recommended - 7d
+S2369,53.54,Amber,100.0,0.5322,Medium,63.86,Declining,0.7741,High,46.45,Stable,63.86,Academic,High,Yes,Academic mentoring - Faculty - 7d
+S2638,70.55,Green,95.0,0.8854,High,63.75,Declining,0.0519,Low,3.11,Stable,63.75,Academic,High,Yes,Advisor review recommended - 7d
+S2341,63.21,Amber,100.0,0.8846,High,63.69,Declining,0.2988,Medium,17.93,Stable,63.69,Academic,High,Yes,Advisor review recommended - 7d
+S2473,74.59,Green,100.0,0.8677,High,62.47,Declining,0.2847,Medium,17.08,Stable,62.47,Academic,High,Yes,Advisor review recommended - 7d
+S2283,70.41,Green,80.0,0.8675,High,62.46,Declining,0.3912,Medium,23.47,Stable,62.46,Academic,High,Yes,Advisor review recommended - 7d
+S2143,65.11,Amber,100.0,0.8576,High,61.75,Declining,0.1277,Low,7.66,Stable,61.75,Academic,High,Yes,Advisor review recommended - 7d
