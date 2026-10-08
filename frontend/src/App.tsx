@@ -1,10 +1,8 @@
 import {
-  Activity,
   AlertTriangle,
   BarChart3,
   BrainCircuit,
   ClipboardList,
-  GraduationCap,
   LayoutDashboard,
   ShieldCheck,
   Users,
