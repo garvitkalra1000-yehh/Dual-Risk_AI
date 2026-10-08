@@ -51,7 +51,7 @@ interface OverviewData {
 // API
 // =========================================================
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://dual-risk-ai.onrender.com";
 
 // =========================================================
 // SMALL CARD
