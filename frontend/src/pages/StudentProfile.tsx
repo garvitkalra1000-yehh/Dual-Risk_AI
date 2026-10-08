@@ -12,7 +12,7 @@ import {
   User,
 } from "lucide-react";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://dual-risk-ai.onrender.com";
 
 interface Student {
   student_id: string;
