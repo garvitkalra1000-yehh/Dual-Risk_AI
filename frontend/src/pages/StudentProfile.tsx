@@ -4,7 +4,6 @@ import {
   ArrowLeft,
   AlertTriangle,
   BrainCircuit,
-  Calendar,
   CheckCircle2,
   GraduationCap,
   Lightbulb,
