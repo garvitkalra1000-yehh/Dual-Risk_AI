@@ -41,7 +41,7 @@ interface StudentsResponse {
 
 type RiskFilter = "all" | "high" | "medium" | "low";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://dual-risk-ai.onrender.com";
 const PAGE_SIZE = 25;
 
 function Students() {
